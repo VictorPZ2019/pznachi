@@ -6,7 +6,7 @@
     default="False" />
   <param
     name="robot_description"
-    textfile="$(find pznachi)/robots/pznachi.urdf" />
+    textfile="$(find pznachi)/urdf/pznachi.urdf" />
   <param
     name="use_gui"
     value="$(arg gui)" />
